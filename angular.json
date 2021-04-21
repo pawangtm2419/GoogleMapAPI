@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "googleMapAPI"
+    }
+  },
+  "defaultProject": "googleMapAPI",
+  "cli": {
+    "analytics": "a05df43c-48a0-4b92-9a50-2253bd749f03"
+  }
 }
